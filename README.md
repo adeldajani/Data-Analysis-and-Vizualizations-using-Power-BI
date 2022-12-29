@@ -34,5 +34,5 @@ ___
 | Project No. | Project |
 | ---		  | ----    |
 | 01		  | [Build a Data Model for Seven Sages Brewing Company](/Project1/) 	|
-| 02 		  | [Building a Power BI Report for Waggle](/02-Building-Power-BI-Report-for-Waggle/) 								|
-| 03 		  | [Market Analysis Report for National Clothing Chain](/03-Market-Analysis-Report-for-National-Clothing-Chain/)	|
+| 02 		  | [Building a Power BI Report for Waggle](/Project2/) 								|
+| 03 		  | [Market Analysis Report for National Clothing Chain](/Project3/)	|
